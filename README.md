@@ -7,8 +7,8 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xiaoyaoshengy/xiaoyaoshengy.github.io?display_timestamp=author&style=flat&logo=github&labelColor=grey&color=teal">
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaoyaoshengy&show_icons=true&theme=tokyonight&hide=stars" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyaoshengy&layout=compact&theme=tokyonight" alt="GitHub Top Languages" />
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyaoshengy&layout=compact&theme=tokyonight" alt="GitHub Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaoyaoshengy&show_icons=true&theme=tokyonight&hide=stars" alt="GitHub Stats" />
 </p>
